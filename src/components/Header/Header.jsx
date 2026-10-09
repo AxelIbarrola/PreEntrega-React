@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import logo from "../../assets/react.svg";
-import { Nav } from "../Nav/nav";
+import { Nav } from "../Nav/nav.jsx";
 import "./Header.css";
 
 export const Header = () => {
