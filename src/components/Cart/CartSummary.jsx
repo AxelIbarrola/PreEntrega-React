@@ -1,0 +1,17 @@
+import { useCart } from "../../context/CartContext";
+
+export const CartSummary = () => {
+  const { getCartTotal, checkout } = useCart();
+
+  const total = getCartTotal();
+
+  return (
+    <div className="cart-summary">
+      <p className="cart-total">TOTAL A PAGAR: ${total}</p>
+
+      <button className="btn bg-success primary" onClick={checkout}>
+        FINALIZAR COMPRA
+      </button>
+    </div>
+  );
+};

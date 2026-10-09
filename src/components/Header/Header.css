@@ -1,0 +1,49 @@
+header {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 1rem 3rem;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.logo-container a {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.logo-container img {
+  display: block;
+  width: 45px;
+  height: 45px;
+  object-fit: contain;
+}
+
+.logo-container span {
+  font-size: 1.7rem;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.logo-container a:hover span {
+  color: var(--primary);
+}
+
+@media (max-width: 600px) {
+  header {
+    padding: 1rem 5%;
+    gap: 1rem;
+  }
+
+  .logo-container img {
+    width: 36px;
+    height: 36px;
+  }
+
+  .logo-container span {
+    font-size: 1.2rem;
+  }
+}

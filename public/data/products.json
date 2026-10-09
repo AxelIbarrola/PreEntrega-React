@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Kingdom Tomo 1",
+    "description": "En la antigua China, siete reinos luchan por el poder. Xin, un joven huérfano, sueña con convertirse en un gran general y cambiar su destino.",
+    "price": 12000,
+    "category": "shonen",
+    "image": "/img/manga/kingdom1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Death Note Tomo 1",
+    "description": "Light Yagami encuentra un cuaderno sobrenatural capaz de matar a cualquiera cuyo nombre sea escrito en él. Su decisión de cambiar el mundo desencadena un intenso juego mental.",
+    "price": 10500,
+    "category": "shonen",
+    "image": "/img/manga/dn tomo 1.webp"
+  },
+  {
+    "id": 3,
+    "name": "Orb Tomo 1-2",
+    "description": "En una época dominada por la censura religiosa, distintos personajes arriesgan sus vidas para investigar una idea revolucionaria sobre el universo y el movimiento de los astros.",
+    "price": 18000,
+    "category": "shonen",
+    "image": "/img/manga/orb 1-2.webp"
+  },
+  {
+    "id": 4,
+    "name": "Horimiya Tomo 1",
+    "description": "Kyoko Hori y su compañero Izumi Miyamura descubren facetas inesperadas del otro fuera de la escuela, dando comienzo a una historia de romance, amistad y autodescubrimiento.",
+    "price": 28500,
+    "category": "romance",
+    "image": "/img/manga/horimiya 1.webp"
+  },
+  {
+    "id": 5,
+    "name": "Ao no Flag Tomo 1",
+    "description": "Durante su último año de secundaria, tres jóvenes enfrentan sentimientos complejos, dudas sobre el amor y decisiones que marcarán su crecimiento personal.",
+    "price": 12000,
+    "category": "romance",
+    "image": "/img/manga/ao no flag 1.webp"
+  },
+  {
+    "id": 6,
+    "name": "Monster Tomo 1",
+    "description": "El doctor Kenzo Tenma salva la vida de un niño que años después se convierte en un peligroso asesino. Su decisión lo arrastra a una inquietante investigación psicológica.",
+    "price": 18000,
+    "category": "seinen",
+    "image": "/img/manga/monster tomo 1.webp"
+  },
+  {
+    "id": 7,
+    "name": "Vagabond Tomo 1",
+    "description": "Tras la batalla de Sekigahara, el joven Takezo emprende un camino marcado por la violencia y la búsqueda de fuerza, que lo llevará a cuestionar el verdadero significado de ser invencible.",
+    "price": 12000,
+    "category": "seinen",
+    "image": "/img/manga/vagabond tomo 1.webp"
+  }
+]
